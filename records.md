@@ -87,14 +87,12 @@
 
 ## Demo 影片
 ### 網頁 Demo 影片
-<p style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
-  <iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border: 0 none;" src="https://www.youtube.com/embed/SRcZ4PaRkbo" allowfullscreen></iframe>
-</p>
+[![](http://img.youtube.com/vi/SRcZ4PaRkbo/0.jpg)](http://www.youtube.com/watch?v=SRcZ4PaRkbo "")
+
 
 ### 實際 Demo 情境影片
-<p style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
-  <iframe style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; border: 0 none;" src="https://www.youtube.com/embed/7yTOFd2Cqb4" allowfullscreen></iframe>
-</p>
+[![](http://img.youtube.com/vi/7yTOFd2Cqb4/0.jpg)](http://www.youtube.com/watch?v=7yTOFd2Cqb4 "")
+
 
 > 茲感謝**國立金門大學社工系、護理系**協助拍攝影片
 
