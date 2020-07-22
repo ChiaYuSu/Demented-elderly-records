@@ -88,12 +88,12 @@
 ## Demo 影片
 ### 網頁 Demo 影片
 [![](http://img.youtube.com/vi/SRcZ4PaRkbo/0.jpg)](http://www.youtube.com/watch?v=SRcZ4PaRkbo "")
+> 影片點選觀看
 
 
 ### 實際 Demo 情境影片
 [![](http://img.youtube.com/vi/7yTOFd2Cqb4/0.jpg)](http://www.youtube.com/watch?v=7yTOFd2Cqb4 "")
-
-
+> 影片點選觀看<br />
 > 茲感謝**國立金門大學社工系、護理系**協助拍攝影片
 
 ## 專題紀錄
