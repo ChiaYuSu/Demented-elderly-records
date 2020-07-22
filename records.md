@@ -19,8 +19,8 @@
 
 # 以 LoRa 為基礎之失之老人定位系統
 ## 專題成員
-- 指導教授：趙于翔 教授
-- 學生：蘇家禹、馮志揚、陳憲億、王岳駿、陳佳駿
+- 指導教授：[趙于翔 教授](http://yxzhao-0429.appspot.com/)
+- 學生：[蘇家禹](https://github.com/ChiaYuSu)、[馮志揚](https://github.com/zxc22273146)、[陳憲億](https://github.com/chullin)、[王岳駿](https://github.com/sjkry505)、陳佳駿
 
 ## 致謝
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本專題之所以可以順利完成，首先要感謝負責指導我們的專題教授趙于翔老師，因為有他細心的指導我們，並提供我們寶貴的意見，製作專題近一年半的時間，我們獲得許多的知識，在我們遭遇挫折時，給予我們鼓勵、加油、打氣，才得以讓本研究順利完成。 
@@ -120,4 +120,4 @@
     * 地點：昇恆昌金湖大飯店（金門，台灣）
     * 團隊名稱：安心上路 ‧ 有跡可循
     * 作品名稱：以 LoRa 為基礎之失之老人定位系統
-    * 備註：學弟妹（林家齊、傅于軒、林研汝）代為參賽
+    * 備註：學弟妹（[林家齊](https://github.com/linjiachi)、[傅于軒](https://github.com/FUYUHSUAN)、[林研汝](https://github.com/AIONLin)）代為參賽
