@@ -1,7 +1,7 @@
 ###### tags: `國立金門大學`、`專題`、`LoRa`
 <details><summary>Outline</summary>
 
-- [以 LoRa 為基礎之失之老人定位系統](#以-lora-為基礎之失之老人定位系統)
+- [以 LoRa 為基礎之失智老人定位系統](#以-lora-為基礎之失智老人定位系統)
   - [專題成員](#專題成員)
   - [致謝](#致謝)
   - [研究動機](#研究動機)
@@ -17,7 +17,7 @@
   - [專題紀錄](#專題紀錄)
 </details>
 
-# 以 LoRa 為基礎之失之老人定位系統
+# 以 LoRa 為基礎之失智老人定位系統
 ## 專題成員
 - 指導教授：[趙于翔 教授](http://yxzhao-0429.appspot.com/)
 - 學生：[蘇家禹](https://github.com/ChiaYuSu)、[馮志揚](https://github.com/zxc22273146)、[陳憲億](https://github.com/chullin)、[王岳駿](https://github.com/sjkry505)、陳佳駿
