@@ -121,5 +121,5 @@
     * 地點：昇恆昌金湖大飯店（金門，台灣）
     * 團隊名稱：安心上路 ‧ 有跡可循
     * 作品名稱：以 LoRa 為基礎之失智老人定位系統
-    * 相關報導：[金門三創服務平台 fb](https://www.facebook.com/kinmenstartuphub/posts/770151940423113)、[中時電子報](https://www.chinatimes.com/realtimenews/20200724005003-260405?ctrack=mo_main_rtime_p01&chdtv)、[udn 聯合新聞網](https://udn.com/news/story/7241/4728585)、[經濟日報](https://money.udn.com/money/story/5617/4728585)
+    * 相關報導：[金門三創服務平台 fb](https://www.facebook.com/kinmenstartuphub/posts/770151940423113)、[金門日報](https://www.kmdn.gov.tw/1117/1271/1272/321448)、[中時電子報](https://www.chinatimes.com/realtimenews/20200724005003-260405?ctrack=mo_main_rtime_p01&chdtv)、[udn 聯合新聞網](https://udn.com/news/story/7241/4728585)、[經濟日報](https://money.udn.com/money/story/5617/4728585)
     * 備註：學弟妹（[林家齊](https://github.com/linjiachi)、[傅于軒](https://github.com/FUYUHSUAN)、[林妍汝](https://github.com/AIONLin)）代為參賽
